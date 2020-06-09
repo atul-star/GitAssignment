@@ -35,3 +35,9 @@ Pymysql--->PyMySQL==0.9.3
 requests-------->requests==2.23.0
 
 
+####How To Use This App####
+You Need to Enter your Git login credentials
+Git Username
+Git Password
+
+
